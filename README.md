@@ -1,1 +1,1 @@
-# soalteknis3
+# Test Magang QA soal no 3
